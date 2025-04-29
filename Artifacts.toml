@@ -1,86 +1,86 @@
 [[kdb_c_api]]
 arch = "aarch64"
-git-tree-sha1 = "4c29e519014708395e1c23682fd3d78509d8a650"
+git-tree-sha1 = "bb3c629131976123ebcf35a7b5805433a9c06f58"
 os = "macos"
 
     [[kdb_c_api.download]]
-    sha256 = "82bd87de0910e288535da1805d464d68e7634b70d98f1e9b8944035ce76ac344"
-    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2022.9.3+0/kdb_c_api.v2022.9.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "77b9bef57373f2888e62b0a4e347252815b3c47911dce17b2a32a3de6f222ac1"
+    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2024.10.21+0/kdb_c_api.v2024.10.21.aarch64-apple-darwin.tar.gz"
 [[kdb_c_api]]
 arch = "aarch64"
-git-tree-sha1 = "6b69afa5a88d78aa81384260f27aa8bec5c2966d"
+git-tree-sha1 = "08c0ea1da5f9dcd38558f76baae0b7b6dd4ff3c1"
 libc = "glibc"
 os = "linux"
 
     [[kdb_c_api.download]]
-    sha256 = "ddc7d10dcf3edf97412628bc880d85233209ca6d352bcea166ef6b0afbf2544a"
-    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2022.9.3+0/kdb_c_api.v2022.9.3.aarch64-linux-gnu.tar.gz"
+    sha256 = "1342438fe5732630094c4431600ce49bc9612110be0c499d3f1716f22fe63a28"
+    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2024.10.21+0/kdb_c_api.v2024.10.21.aarch64-linux-gnu.tar.gz"
 [[kdb_c_api]]
 arch = "aarch64"
-git-tree-sha1 = "d7ffdfe716bf27e425c9a69c5c13f166ca7176b8"
+git-tree-sha1 = "0f64ca65b3169f1ed5cb7a60488950ef647f6d2b"
 libc = "musl"
 os = "linux"
 
     [[kdb_c_api.download]]
-    sha256 = "0ec2dbba5e6d37c33ac8d42cebd91e72ae256f859b5fcdb78b8e3ba1b8a44fb5"
-    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2022.9.3+0/kdb_c_api.v2022.9.3.aarch64-linux-musl.tar.gz"
+    sha256 = "e01418d148cf8af75295df56e991e845c7cb392eb9d8589fe105d62bb64f2ef2"
+    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2024.10.21+0/kdb_c_api.v2024.10.21.aarch64-linux-musl.tar.gz"
 [[kdb_c_api]]
 arch = "i686"
-git-tree-sha1 = "e025a85b8bd048bf7c8c6d6606b9d5d2164c7874"
+git-tree-sha1 = "4dad3914adabb3d926870500d89ff4e2d627bbd5"
 libc = "glibc"
 os = "linux"
 
     [[kdb_c_api.download]]
-    sha256 = "6204a52b9f103d4c658cb5461b240d144fe1aff4dc38a506802fc903cd228a16"
-    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2022.9.3+0/kdb_c_api.v2022.9.3.i686-linux-gnu.tar.gz"
+    sha256 = "a156d4acba52eb8bacda33a8743981f2194bed856df164fba4b7c3db19538d7f"
+    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2024.10.21+0/kdb_c_api.v2024.10.21.i686-linux-gnu.tar.gz"
 [[kdb_c_api]]
 arch = "i686"
-git-tree-sha1 = "eacfbfdfc1d4c733bd9d81038969a2e22f7ec44b"
+git-tree-sha1 = "1b3aa19c0633795ea0b889e22e2c2fb19fb12d02"
 libc = "musl"
 os = "linux"
 
     [[kdb_c_api.download]]
-    sha256 = "4af7f0b513a7681eb02c3e28d98c93465d9ee2cfdfeef4dfef826fa8815d2afb"
-    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2022.9.3+0/kdb_c_api.v2022.9.3.i686-linux-musl.tar.gz"
+    sha256 = "370e623f06446f4b2bba2da7257926a7830ec7843fcb91274c76ac35eb844f3b"
+    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2024.10.21+0/kdb_c_api.v2024.10.21.i686-linux-musl.tar.gz"
 [[kdb_c_api]]
 arch = "i686"
-git-tree-sha1 = "5ced08ce0f348cc42125f240d141c136f87652f7"
+git-tree-sha1 = "3f912107ee34f167ad1aefc9a9da0583bc9aad2c"
 os = "windows"
 
     [[kdb_c_api.download]]
-    sha256 = "ef8790c6510b9d589897952042c770cba2c539e34822279c1b5b1005961d0b5e"
-    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2022.9.3+0/kdb_c_api.v2022.9.3.i686-w64-mingw32.tar.gz"
+    sha256 = "d4d344eddb70cfe6c954cb05a085e4e3e0291b63d914895773b3956372161217"
+    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2024.10.21+0/kdb_c_api.v2024.10.21.i686-w64-mingw32.tar.gz"
 [[kdb_c_api]]
 arch = "x86_64"
-git-tree-sha1 = "ff8c265dfc158bdd7b67c6f0d8218f3a5552e298"
+git-tree-sha1 = "31e7651d831f6625d14c3811353535487441067c"
 os = "macos"
 
     [[kdb_c_api.download]]
-    sha256 = "af967e31400deea638a9f6fe0cf020bac48597776ce2064b452a78f4e760138c"
-    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2022.9.3+0/kdb_c_api.v2022.9.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "86df6c0c0df3cc0c5f163da6356e9426a22f0461ef82f003d58b89db4c9cce16"
+    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2024.10.21+0/kdb_c_api.v2024.10.21.x86_64-apple-darwin.tar.gz"
 [[kdb_c_api]]
 arch = "x86_64"
-git-tree-sha1 = "634ebed8e91d841fa7c5760f09a9ae9c04777259"
+git-tree-sha1 = "45589c61c6aaff9f32e80cec8670a2b3ec26e2f4"
 libc = "glibc"
 os = "linux"
 
     [[kdb_c_api.download]]
-    sha256 = "15a3936908c85b32666a880ab2aff77593fe304246a014ab492fc706192ce985"
-    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2022.9.3+0/kdb_c_api.v2022.9.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "8a9b7a7f10cba3da81e400233bfa794adb34993a44dcef6ec2dfefa56804c88b"
+    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2024.10.21+0/kdb_c_api.v2024.10.21.x86_64-linux-gnu.tar.gz"
 [[kdb_c_api]]
 arch = "x86_64"
-git-tree-sha1 = "0a42bc2e06721be9706d1279434d803c02062d9d"
+git-tree-sha1 = "cdb9c867f75d765886462c2a857bee65ee784069"
 libc = "musl"
 os = "linux"
 
     [[kdb_c_api.download]]
-    sha256 = "1bcaa4873f9122691dd065c6942ce2471ef5b9d06b3874e68cb5e5f9a9d506c3"
-    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2022.9.3+0/kdb_c_api.v2022.9.3.x86_64-linux-musl.tar.gz"
+    sha256 = "5911cf44d3f82e52400fae5241823ad52f6477783cb3705920864420968a923e"
+    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2024.10.21+0/kdb_c_api.v2024.10.21.x86_64-linux-musl.tar.gz"
 [[kdb_c_api]]
 arch = "x86_64"
-git-tree-sha1 = "990b91c096d61f6c40b45172a6edb63d38198ad0"
+git-tree-sha1 = "4cc4fc030152ead9c6e7eb8ee3253859675e1f35"
 os = "windows"
 
     [[kdb_c_api.download]]
-    sha256 = "4a673da19c9ec7d741736f514eddf458db094cd35c5b35ef63eaa37569d86563"
-    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2022.9.3+0/kdb_c_api.v2022.9.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "8f639cbd6ad95f8a6c11f032cd9aef4aa9e151ecd77ffafce4d6d76a39172667"
+    url = "https://github.com/JuliaBinaryWrappers/kdb_c_api_jll.jl/releases/download/kdb_c_api-v2024.10.21+0/kdb_c_api.v2024.10.21.x86_64-w64-mingw32.tar.gz"
